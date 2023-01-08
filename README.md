@@ -1,12 +1,12 @@
 # Read-and-Category-Prediction
 
 # Objective
-Read prediction  Predict given a (user,book) pair from ‘pairs Read.csv’ whether the user
+Read prediction: Predict given a (user,book) pair from ‘pairs Read.csv’ whether the user
 would read the book (0 or 1). Accuracy will be measured in terms of the categorization accuracy (fraction
 of correct predictions). The test set has been constructed such that exactly 50% of the pairs correspond
 to read books and the other 50% do not.
 
-Category prediction Predict the category of a book from a review. Five categories are used
+Category prediction: Predict the category of a book from a review. Five categories are used
 for this task, which can be seen in the baseline program, namely Children’s, Comics/Graphic Novels,
 Fantasy, Mystery/Thriller, and Romance. Performance will be measured in terms of the fraction of
 correct classifications.
